@@ -59,6 +59,10 @@ a:active {
   font-size: 25px;
   text-align: left;
 }
+.different {
+  color: #9da7f2;
+  font-family: fantasy;
+}
 .image {
   margin: 30px;
 }
