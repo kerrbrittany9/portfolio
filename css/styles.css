@@ -17,11 +17,23 @@ a:visited {
 a:hover {
     color: salmon;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:active {
     color: salmon;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
+}
+.descrip {
+  font-size: 15px;
+  color: #9fcfea;
+}
+.title {
+  color: #5b8fad;
+}
+.list {
+  color: pink;
+  list-style-type: none;
+  font-size: 25px;
 }
